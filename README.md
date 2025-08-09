@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ermal 👋
 
-<!--
-**ErmalMC/ErmalMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a FullStack Engineer passionate about building clean, efficient, and impactful solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+- 📫 Reach me at: **[ermalbaki84@gmail.com]**
+- 🌍 Portfolio: [ermalmc.github.io](https://ermalmc.github.io/)
+
+---
+
+## 🛠️ Skills
+**Languages:** Java, JavaScript, C++  
+**Frameworks:** React, Django, Angular, Spring-Boot, TailwindCSS
+**Tools:** Git, Docker
